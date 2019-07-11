@@ -2,6 +2,12 @@
 
 Use Liri to find movies, artists, concerts, and more!
 
+Click on the video below to view the application in action!
+
+[![A video of Liri.js being used by the developer.](https://img.youtube.com/vi/UHlOvOqKAZ0/0.jpg)](https://www.youtube.com/watch?v=UHlOvOqKAZ0)
+
+<br>
+
 The various commands include:
 
 
